@@ -1,60 +1,62 @@
-# Classic Models Sales Dashboard (Power BI)
-# Project Overview
+<p align="center">
+  <img src="https://github.com/poonam-data-analyst/classic-models-sales-powerbi-dashboard/blob/main/main%20dashboard.png" width="80%" />
+</p>
 
-This project presents an interactive Power BI dashboard built using the Classic Models dataset to analyze sales performance, product demand, and revenue trends. The dashboard provides insights into business performance and supports data-driven decision making.
+<p align="center">
+  <img src="https://github.com/poonam-data-analyst/classic-models-sales-powerbi-dashboard/blob/main/product%20analysis.png" width="45%" />
+  <img src="https://github.com/poonam-data-analyst/classic-models-sales-powerbi-dashboard/blob/main/sales%20breakdown%20and%20trend.png" width="45%" />
+</p># Classic Models Sales Dashboard (Power BI)
 
-# Tools & Technologies
+## 🚗 Classic Models Sales Dashboard
 
-1)Power BI
+An advanced **Power BI dashboard** built to analyze sales performance of Classic Models across different products, regions, and time periods.
+This project highlights strong capabilities in **data visualization, business analysis, and dashboard design**.
 
-2)DAX
+## 📊 Project Highlights
 
-3)Data Visualization
+✨ Designed interactive KPI cards for quick business insights
+✨ Analyzed sales, profit margin, and total orders
+✨ Identified top and bottom performing products
+✨ Visualized global customer distribution using maps
+✨ Built dynamic filters for year, city, and product line
 
-4)Dataset Description
+## 📈 Key Insights
 
-# The dataset contains sales and product information including:
+✔ Total Sales reached **$9.60M** with strong profitability
+✔ Profit Margin stands at **~39.8%**, indicating healthy business performance
+✔ Top-selling product: **1992 Ferrari 360 Spider Red**
+✔ Classic Cars category contributes the highest share
+✔ Sales peaked in 2004 compared to other years
+✔ Significant customer base across North America and Europe
 
-1)Customer details
+## 🛠️ Tools & Technologies
 
-2)Order information
+* 📊 Power BI
+* 📁 Excel Dataset
+* 🔄 Data Cleaning & Transformation
+* 📉 Data Visualization
 
-3)Product lines
+## 💼 Business Value
 
-4)Sales revenue
+This dashboard helps businesses to:
 
-5)Order quantities
+* Track sales and profitability
+* Identify high and low performing products
+* Understand customer distribution globally
+* Make data-driven strategic decisions
 
-6)Product performance
+## 📌 Features
 
-# Key Analysis Performed
+✨ Interactive slicers (Year, City, Product Line)
+✨ KPI Cards for quick insights
+✨ Map visualization for global analysis
+✨ Top & Bottom product comparison
+✨ Clean and professional dashboard design
 
-1)Total sales and revenue performance analysis
+## 📂 Project Structure
 
-2)Product line performance comparison
-
-3)Identification of top-selling products
-
-4)Sales trend analysis over time
-
-5)Customer purchasing behavior analysis
-
-# Dashboard Features
-
-1)KPI cards displaying key sales metrics
-
-2)Interactive filters and slicers
-
-3)Sales trend visualizations
-
-4)Product performance analysis
-
-# Skills Demonstrated
-
-1)Data Visualization
-
-2)Dashboard Development
-
-3)Business Data Analysis
-
-4)DAX Calculations
+classic-models-dashboard/
+│── 📊 classic_models.pbix
+│── 📁 dataset.csv
+│── 🖼 dashboard_preview.png
+│── 📄 README.md
